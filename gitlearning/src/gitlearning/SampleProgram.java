@@ -10,4 +10,11 @@ public class SampleProgram {
 		//jukstuff added
 	}
 
+	public static void add(){
+		
+		System.out.println("iam git");
+		//TODO for loop to be added
+	}
+	
+	
 }
