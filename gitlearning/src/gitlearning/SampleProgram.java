@@ -8,6 +8,7 @@ public class SampleProgram {
 	
 	public static method(){
 		//jukstuff added
+		
 	}
 
 	public static void add(){
