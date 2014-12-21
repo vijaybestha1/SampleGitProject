@@ -6,8 +6,7 @@ public class SampleProgram {
 		//thank you
 	}
 	
-	public static method(){
-		//removed junkstuff	
+	public static method(int i){
 	}
 
 	public static void add(){
