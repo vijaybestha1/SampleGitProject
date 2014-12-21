@@ -7,7 +7,7 @@ public class SampleProgram {
 	}
 	
 	public static method(){
-		//jukstuff added
+		//removed junkstuff
 		
 	}
 
