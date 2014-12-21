@@ -7,15 +7,15 @@ public class SampleProgram {
 	}
 	
 	public static method(){
-		//removed junkstuff
 		//stopaddeing
 		
 	}
 
 	public static void add(){
-		
-		System.out.println("iam git");
-		//TODO for loop to be added
+		//write some real logic
+		for(int i: data){
+			//TODO Logic
+		}
 	}
 	
 	
